@@ -2,9 +2,6 @@
 🌱 I’m currently learning NodeJS
 <br><br>
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jsm2548)](https://solved.ac/jsm2548)
-<br>
-
 ![SeongMen's github stats](https://github-readme-stats.vercel.app/api?username=sungmen&show_icons=true&theme=radical)
 
 
