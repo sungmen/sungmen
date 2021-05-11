@@ -4,10 +4,6 @@
 
 ![SeongMen's github stats](https://github-readme-stats.vercel.app/api?username=sungmen&show_icons=true&theme=radical)
 
-<br>
-<a href="http://uhs-alphabet.com"><img src="http://uhs-alphabet.com/api/getSVG?stuID=20160842" alt="alphabet" width="52%" height="40%"/></a> 
-<br>
-
 <!--
 **sungmen/sungmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
