@@ -1,5 +1,5 @@
 ### Hi there 👋 
-🌱 I’m currently learning NodeJS
+🌱 I’m currently learning C/C++
 <br><br>
 
 ![SeongMen's github stats](https://github-readme-stats.vercel.app/api?username=sungmen&show_icons=true&theme=radical)
