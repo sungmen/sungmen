@@ -2,8 +2,6 @@
 🌱 I’m currently learning C/C++
 <br><br>
 
-![SeongMen's github stats](https://github-readme-stats.vercel.app/api?username=sungmen&show_icons=true&theme=radical)
-
 <!--
 **sungmen/sungmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
